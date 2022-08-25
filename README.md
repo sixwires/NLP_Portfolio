@@ -1,2 +1,5 @@
-# NLP_Portfolio
+# Natural Language Processing Portfolio
+This is a repository containing NLP algorithms and tests.
+
+### Assignment 0: Historical Approaches to NLP
 Repository for natural language processing algorithms and tests.
