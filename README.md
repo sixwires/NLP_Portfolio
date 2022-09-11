@@ -6,3 +6,6 @@ This is a repository containing NLP algorithms and tests.
 
 ### Assignment 1: Text Processing with Python
 * https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW1/Homework1_cmb170000.py
+
+### Assignment 2: Exploring NLTK
+* https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW2/Homework2_cmb170000.ipynb
