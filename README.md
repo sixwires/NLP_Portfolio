@@ -13,3 +13,5 @@ This is a repository containing NLP algorithms and tests.
 ### Assignment 3: Exploring NLTK and WordNet
 * https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW3/Homework3_cmb170000.ipynb
 * https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW3/Homework3_cmb170000.py
+
+### Assignment 4: Eploring n-grams
