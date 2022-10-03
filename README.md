@@ -15,3 +15,6 @@ This is a repository containing NLP algorithms and tests.
 * https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW3/Homework3_cmb170000.py
 
 ### Assignment 4: Eploring n-grams
+* https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW4/Homework4_1_cmb170000.py
+* https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW4/Homework4_2_cmb170000.py
+* https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW4/N-Grams.pdf
