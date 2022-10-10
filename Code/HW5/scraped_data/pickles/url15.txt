@@ -1,0 +1,729 @@
+<![endif] 
+ [if !IE]><! <![endif] 
+ 
+ 
+ 
+ 
+  HEADER  
+  NEED TO CHECK IF WE ARE ON THE HOMEPAGE, if not, no war story  
+ 
+  only include war story/expanded nav if it is NOT a mobile device  
+ 
+ 
+ 
+ 
+  <div id='div-leaderboard-ad' class="ad-fixed-">  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Music 
+ Style 
+ Culture 
+ Video 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Feed 
+ 
+ All Posts 
+ Featured Posts 
+ Trending Posts 
+ 
+ 
+ Magazine 
+ Events 
+ Shop 
+ 
+ 
+ Twitter 
+ facebook 
+ youtube 
+ instagram 
+ 
+ 
+ 
+ 
+              US Edition
+             
+ 
+ 
+ 
+              UK Edition
+             
+ 
+ 
+ 
+                Canada Edition
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  FOLLOW OVERLAY desktop  
+ 
+ 
+ Follow the Fader 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Press Enter to Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ Music 
+ Style 
+ Culture 
+ Video 
+ Magazine 
+ Events 
+ Shop 
+ 
+ 
+          US Edition
+         
+ 
+ 
+ 
+          UK Edition
+         
+ 
+ 
+ 
+            Canada Edition
+           
+ 
+  <li class="mobile_only ui_control" ui-toggle="faderRadio"><a class="gutter_left" href="#"><span>Fader Radio</span></a></li>  
+  <li class="follow_mobile accordion mobile_only"><span class="gutter_left"><span>Follow the Fader</span><span class="mobile_only icon_arrow"></span></span>  
+    <\!-- FOLLOW LINKS LIST MOBILE -\->  
+    <ul class="mobile_only mobile_follow">  
+      <li><a target="_blank" href="https://twitter.com/thefader">Twitter</a></li>  
+      <li><a target="_blank" href="https://www.facebook.com/thefader">Facebook</a></li>  
+      <li><a target="_blank" href="http://www.youtube.com/user/TheFaderTeam">Youtube</a></li>  
+      <li><a target="_blank" href="https://www.pinterest.com/thefader/">Pinterest</a></li>  
+      <li><a target="_blank" href="http://thefader.tumblr.com/">Tumblr</a></li>  
+      <li><a target="_blank" href="http://instagram.com/thefader">Instagram</a></li>  
+      <li><a target="_blank" href="http://soundcloud.com/fadermedia">Soundcloud</a></li>  
+      <li><a target="_blank" href="http://open.spotify.com/app/thefader">Spotify</a></li>  
+      <li><a target="_blank" href="http://thefader.vsco.co/grid/1">VSCO</a></li>  
+      <li><a target="_blank" href="http://plus.google.com/+TheFADER">Google+</a></li>  
+      <li><a target="_blank" href="http://feeds.feedburner.com/TheFaderMagazine/">RSS</a></li>  
+  </ul>  
+  </li>  
+ 
+ 
+ 
+ 
+    Scammers are posing as FADER staffers on Instagram and DistroKid.  Read more here .
+   
+ 
+ 
+ 
+  ARTICLE TYPES: super_feature, feature, simple  
+ 
+  <div id='div-below-fold-latest-ad'>
+       </div>  
+ ======= SIMPLE ======= 
+ 
+ 
+ 
+ 
+  music 
+  /
+   Hip-Hop
+   
+ 
+ JPEGMAFIA is the out-of-pocket rap rebel the world needs right now 
+ The L.A.-based artist on his  Veteran  album and the evolution of his distinctly provactive style.  
+ 
+ 
+ 
+ 
+ 
+      By  Briana Younger 
+ 
+ 
+ 
+    April 18, 2018
+   
+ 
+ 
+ 
+ 
+ 
+  <span>Share</span>  
+ 
+ 
+ 
+  <span>Tweet</span>  
+ 
+ 
+ 
+  <span>Snap</span>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+      Harrison Corwin
+    
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            A few hours before he takes the stage for a show at NYU,  JPEGMAFIA  is in the green room vaping a strain of weed called “grape ape” and watching  Girls Trip  with his team and friends. It is somehow, both, the most reasonable and random activity he could possibly be doing. On the one hand, his music is filled with pop culture references, memes, and satirical humor — lines about how the AR is “built like Lena Dunham” and socking it “to a nigga like Mankind” built over Ol’ Dirty Bastard’s voice, and that's just  on one song . Conversely, though, his music is dark and indignant: a personified middle finger to the alt-right (and, really, the right in general), neoliberals, hipsters, bloggers, and Morrissey. In other words, it's exactly the music the world needs right now. 
+           
+ 
+ 
+ ADVERTISEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            Asked to sum up how he arrived at this particular juncture in his life, Peggy, as he often refers to himself, says, “A lot of fucked up shit happening and me just having to figure it out.” Born and raised in Brooklyn, he moved to Alabama when he was 13 and then to Louisiana upon joining the Air Force. After a tour in Iraq and stints in Germany and Japan, he was honorably discharged and settled in Baltimore, drawn by the city’s radically pioneering music and art scene. Soon thereafter, Freddie Gray’s death at the hands of the police inspired an uprising which inspired Peggy’s 2015  Darkskin Manson  EP. It was followed by 2016’s  Black Ben Carson  and  The 2nd Amendment , a collaborative effort with fellow Charm City rapper Freaky. “It made me step up my game because everybody is always grinding,” he says of his time there. “I would not have been here if it wasn't for Baltimore.” Opportunity called and last year, he picked up once more and moved to Los Angeles.
+           
+ 
+ 
+ 
+ 
+ 
+ Read Next:
+       
+        Tame Impala, Iggy Pop, and King Gizzard will headline Desert Daze 2022
+       
+ 
+ 
+ 
+ 
+            His latest album  Veteran , so named for his background but also the fact he’s been making music for a while, was completed during the transition. Most of the beats and lyrics came from his time on the East Coast, but the mixing and mastering were done in L.A. He says it's possible we'd have a different sounding album had he stayed, one that would've been harsher due to less stability. “1539 N. Calvert,” the last song he recorded at the now-shuttered DIY artist haven Bell Foundry, is a remnant of that era. It opens the album: no hook just a stream-of-thought verse that includes namechecks of Kellyanne Conway, John Lennon, and, one of his primary influences, Ice Cube. Released in January, Veteran has quickly become his most acclaimed project yet. It’s an artful and experimental collection of songs he describes as somewhere between DatPiff and PC Music, culling from the experience of being Black and in a country that is openly hostile to and resentful of your existence.
+           
+ 
+ 
+ ADVERTISEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            Before he took the stage to perform, in what resembled more of a hardcore show than a rap one, JPEGMAFIA sat down with The FADER to explain how joining the Air Force changed his worldview, Sarah McLachlan’s influence on his latest album, and provoking with his music.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADVERTISEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ So much of your music is embodies hostility and anger and the feelings that being Black and dealing with racism day in and out can stir up. What was the first time it really hit you that you’re a Black man? 
+ 
+ 
+            That’s a good ass question. I think it was when — I really had to think because it didn’t come until I was like 13. When I first moved to Alabama, it was like my second day of school. And I was talking to this white girl at lunch. She just stopped me and asked me something and I was just having conversation. This white dude threw an orange at me. He just chucked it at me fast as shit. [ laughs ] And then I remember I went home that day and I was just like  What the fuck did he do that for? I don’t even know who that is . And then I realized it was probably some racist shit. 
+           
+ 
+            At that point — because before that, I lived in Flatbush and it was nothing but niggas and Latinos around and I’d never really thought about it like that. I always heard about racist shit in Alabama but that was the first time it happened and then a whole bunch happened after that. That’s crazy, I’ve never been asked that.
+           
+ 
+ 
+ ADVERTISEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Did joining the Air Force and being able to travel alter your view of the world in that regard at all? 
+ 
+ 
+            It didn’t really so much change it as reinforce things I already knew, I think. One thing — I don’t know if this is still a common perception, but back in the day, there was this idea that you go to London and they all love Black people. Or you go here and there and they don’t care about the shit like they do here. All I learned when I was traveling is they definitely do and they don’t like us either. No one does.
+           
+ 
+ So when you first started creating music what were those records like? 
+ 
+ 
+ 
+ ADVERTISEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            It was just instrumental shit at first. I was just making beats. When I first started rapping, those first records kind of sounded similar to what I do now. It was very politically driven. I had a song where I dissed Fox News, talking shit about Sarah Palin. I was basically rapping about the same shit, albeit a lot worse and not executed as well. I didn’t start rapping until I heard Ice Cube because I didn't think I had anything really to say, and I didn't realize you could rap about political shit in the way that he was doing it. So that's probably when I started wanting to rap because, before that, I was just like I don't want to talk about the same shit everybody else is talking about. I also have the standard “Dead Presidents” freestyle that every rapper has to do. 
+           
+ 
+ That’s a rite of passage. When did you know that music was something you could do as a career or that success with it was actually attainable? 
+ 
+ 
+            I didn't realize that ‘til like two months ago. The first time I started wanting to pursue it as a care was when I was like 17 or 18. But I always just prepare realistically for the chance of failure. I was like there's a chance I might never make it, but I just have to make the decision now that I'm just going to do this because this is what I want to do.
+           
+ 
+ 
+ ADVERTISEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Did you have a backup plan? 
+ 
+ 
+            Journalism. 
+           
+ 
+ You have a masters, don’t you? 
+ 
+ 
+ 
+ ADVERTISEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            Unfortunately. It’s worthless, but yes. I just wanted to write about music if I wasn’t going to make it. 
+           
+ 
+ So what changed in these past two months? 
+ 
+ 
+            When I released  Veteran  and the reception was good, it was the first time I ever worked really hard on something and had that hard work reciprocated back to me. That's when I was like  Oh this can be a career.  My only goal in music always -- I’ve said this like a million times -- it's always just to make a living. I wanted it to be my job. I didn't care about being famous or any of that. I just wanted to have enough money to live, to pay my bills and then have money left over to be okay. So with that being my goal. I'm like happy with the reception that veterans got to be the first time I ever thought I could really make a living from this was two months ago.
+           
+ 
+ 
+ ADVERTISEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+      Kalina Simone
+    
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADVERTISEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ You said you’re always prepared for failure or for hate. Does this album being received so well change that for you?  
+ 
+ 
+            I think we're in a place now in general in this country where this album can be accepted. This is just timing. If this album came out in like 2008, it might not be the same thing. People are more open and receptive to this kind of thing now, but I've always been like this. Since I've been like this for so long I've literally watched the rest of the world come around. 
+           
+ 
+ It’s interesting because this one is also more experimental than your past projects as well. Why the change of direction? 
+ 
+ 
+ 
+ ADVERTISEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            I listen to so much stuff. I get the experimental shit like Arca, but I also listen to Young Nudy or somebody. I just feel like I was trying to make the most me album I could possibly make. I have a lot of influences, but I try not to wear them on my sleeve.  Veteran  is an exercise in editing because there is a lot of moments I took out and some that almost didn’t make it. There were definitely times when I was just like,  Okay, I need to reel it back . I think I did that more than ever on  Veteran  because back in the day I'd just be like,  Nah, more than that crazy shit let it out .   
+           
+ 
+ What other kinds of things were you engaging with as you made it?   Dead ass serious, I listened to a lot of Sarah McLachlan. She has this song called  “Possession.”  I would listen to a lot of pop music that people associate with hits, but I was just finding experimental shit in it. That “Possession” song is structured like crazy as fuck. It’s just weird, especially for a song that’s big. But I was listening to that, I was listening to  Life Of Pablo . I was looking at a lot of futuristic shit. I was watching a lot of  Ghost In The Shell . I listened to a lot of anime soundtracks too, but I do that in general. And a lot of African music like I was discovering a lot of shit on [ Awesome Tapes From Africa ]. They collect old tapes from Africa, and I was listening to a lot of shit like that because I want to explore that more in the future. 
+           
+ 
+ Your music strikes me as fearless — sonically and in terms of the content. The idea that anyone would reject it or be offended isn't present. Where does that come from? 
+ 
+ 
+ 
+ ADVERTISEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            The people I'm talking about — I'm giving it right back to them the way they give it to me. So like I don't really feel no type way because, at the end of the day, I know that everything I'm doing has been done to me and other people ten times worse in real life. I'm just saying it on the record. When I was in high school, this is dude pulled me to the side in computer class and played me this song called “Nigger Hatin’ Me.” It was this country song about this dude who hated black people, and I sat there and listened to the whole thing. If I can get through that then...they’ll live. 
+           
+ 
+ That said, what do you do for self-care? Where do you find joy? Because this shit will drive you crazy.  
+ 
+ 
+            Outside of just making music, I find joy playing shows and having people come up to me and say, “ Veteran , great album — I really like it.” I mean that's honestly why I’m making the music. Anybody can front and be like ‘I don’t give a fuck about what nobody thinks about it,’ but at the end of the day, the reason you're making is so people can enjoy it. It gives you validation. That stuff keeps me sane. And then just, I don’t know, watching  Insecure  and shit. 
+           
+ 
+ 
+ ADVERTISEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What is it about making music? How does it feed you mentally or spiritually? It's a good outlet. It's a good space or a world where I feel like I can exist and nothing I do is really wrong because it all just comes from me. It's a good escape like some people watch TV to escape or play video games or whatever. Making music for me is like the one time where, no matter what's going on, I can be completely focused on that for a few hours or a few days. It definitely quenches a mental thirst or something.
+           
+ 
+ So for you, what does it mean to be free as an artist? 
+ 
+ 
+            It’s doing what you like and understanding that there are consequences. It’s doing what you want and understanding that you will fail. Once you get over that hump, that's freedom because it's like you understand that and you still made something anyway. 
+           
+ 
+ 
+ ADVERTISEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Collection Callout (prev <-> next article in collection)  
+  END COLLECTION CALL OUT  
+ 
+ 
+ 
+ 
+  <span>Share</span>  
+ 
+ 
+ 
+  <span>Tweet</span>  
+ 
+ 
+ 
+  <span>Snap</span>  
+ 
+ 
+ 
+ 
+ 
+ Hip-Hop,  
+ JPEGMAFIA,  
+ Noise 
+ 
+ 
+ 
+  <div class="mobile_section_header" style="margin-bottom: -20px;">More from FADER</div>  
+ 
+ 
+ Read full story 
+ 
+ 
+ 
+  320 ad  
+  <div class="ad square_ad" style="width: 320px; height: 270px;">  
+ 
+ 
+ 
+ 
+ 
+ 
+ Trending 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lil Yachty drops new song “Poland” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pink Siifu allegedly assaulted by security at Brooklyn club 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Clip is ready to be present 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Song You Need: SleazyWorld Go lets the beat breathe on “Creepers” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nicki Minaj recruits a dancehall all-star team on “Likkle Miss (The Fine Nine Remix)” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  fullscreen wrapper  
+ 
+ 
+ music  /  News 
+ JPEGMAFIA is the out-of-pocket rap rebel the world needs right now 
+ 
+ 
+ 
+ 
+  <div id="emberapp"></div>  
+ 
+ 
+ 
+ 
+ 
+ 
+  <script type='text/javascript'>
+         displayAdSlot('div-footer-ad', 'fader_v3_article_footer_728_90', [728, 90]);
+         /* setupGptAdObserver('div-footer-ad');*/
+         </script>  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Contact 
+ Advertising 
+ Terms of Use 
+ Privacy Policy 
+ Cookie Policy 
+ Fader Label 
+ Fader Films 
+ 
+ 
+ Twitter 
+ Facebook 
+ Youtube 
+ Instagram 
+ Apple Music 
+ Soundcloud 
+ Spotify 
+ RSS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Click me. Read me. The FADER newsletter.
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2022  The Fader, Inc. All rights reserved. 
+ 
+ 
+ 
+ Site By Wondersauce 
+ 
+ 
+ 
+ 
+  Quantcast Tag, part 2  
+ 
+ 
+ 
+ 
+ 
+ 
+  Twitter  
+ 
+  End Twitter universal website tag code  
+ 
+  TODO: async re-enable?  
+ 
+ 
+ 
+ 

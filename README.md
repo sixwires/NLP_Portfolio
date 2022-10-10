@@ -18,3 +18,6 @@ This is a repository containing NLP algorithms and tests.
 * https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW4/Homework4_1_cmb170000.py
 * https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW4/Homework4_2_cmb170000.py
 * https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW4/N-Grams.pdf
+
+### Assignment 5: Web Crawler
+* https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW5/Homework5_cmb170000.py

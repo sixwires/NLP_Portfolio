@@ -1,0 +1,47 @@
+  <![endif] 
+ 
+ 
+ 
+ Please enable cookies. 
+ 
+ 
+ Sorry, you have been blocked 
+ You are unable to access  papermag.com 
+  /.header  
+ 
+ 
+ 
+ 
+ 
+ 
+  /.captcha-container  
+ 
+ 
+ 
+ Why have I been blocked? 
+ This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. 
+ 
+ 
+ What can I do to resolve this? 
+ You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. 
+ 
+ 
+  /.section  
+ 
+ 
+ Cloudflare Ray ID:  757b8a4df8f8b048 
+ • 
+ 
+      Your IP:
+       Click to reveal 
+ 2603:8081:2001:7a5:c8c7:be50:6f1b:6bc1 
+ • 
+ 
+ Performance & security by   Cloudflare 
+ 
+ 
+  /.error-footer  
+  /#cf-error-details  
+  /#cf-wrapper  
+ 
+ 
