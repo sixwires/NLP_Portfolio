@@ -25,3 +25,9 @@ This is a repository containing NLP algorithms and tests.
 
 ### Assignment 6: Sentence Parser
 * https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW6/Sentence%20Parsing.pdf
+
+### Assignment 7: Author Attribution
+* https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW7/AuthorAttribution.ipynb
+
+### Assignment 8: ACL Paper Analysis
+* https://github.com/CadeHub/NLP_Portfolio/blob/main/Documents/ACL%20Paper%20Summary_%20.pdf
