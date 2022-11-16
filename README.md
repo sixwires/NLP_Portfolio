@@ -22,3 +22,6 @@ This is a repository containing NLP algorithms and tests.
 ### Assignment 5: Web Crawler
 * https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW5/Homework5_cmb170000.py
 * https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW5/Webcrawler%20Documentation.pdf
+
+### Assignment 6: Sentence Parser
+* https://github.com/CadeHub/NLP_Portfolio/blob/main/Code/HW6/Sentence%20Parsing.pdf
