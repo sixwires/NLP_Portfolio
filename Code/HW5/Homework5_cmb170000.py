@@ -19,10 +19,10 @@ else:
 nltk.download('stopwords')
 
 WIKI_LINK = 'https://en.wikipedia.org'
-STARTING_LINK = 'https://en.wikipedia.org/wiki/JPEGMafia'
-KEYWORD = 'JPEGMafia'
-# STOPWORDS = ['the','as', 'na', 'and', 'it', 'i', 'that', 'you', 'got', 'but', 'so', 'like', 'thing', 'he', 'she', 'they', 'div']
-
+STARTING_LINK = 'https://en.wikipedia.org/wiki/New_York_City'
+KEYWORD = 'York'
+CORPUS_STOPWORDS = ['pdf', 'isbn', 'also', 'one']
+MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december']
 
 def crawl(starter_url, keyword):
     r = requests.get(starter_url)
@@ -85,7 +85,8 @@ def clean_file(filename):
     with open(filename, 'r') as file:
         data = file.read().replace('\n', '')
         data = data.replace('\t', '')
-        text_chunks = [chunk for chunk in data.splitlines() if not re.match(r'^\s*$', chunk)]
+        text_chunks = [chunk for chunk in data.splitlines()
+                       if not re.match(r'^\s*$', chunk)]
 
     # remove the unclean file
     os.remove(filename)
@@ -93,15 +94,17 @@ def clean_file(filename):
     text = ' '.join(text_chunks)
     with open(filename, 'w') as f:
         f.write(text)
-    
+
     return text.lower()
 
 
 def tokenize_file_unigram(filename):
     with open(filename, 'r') as f:
         text = f.read()
-        tokens = [t.lower() for t in nltk.word_tokenize(text) if t.isalpha() and t not in stopwords.words('english')]
+        tokens = [t.lower() for t in nltk.word_tokenize(
+            text) if t.isalpha() and t not in stopwords.words('english') and t not in CORPUS_STOPWORDS and t not in MONTHS]
         return tokens
+
 
 def count_tokens(tokens):
     token_dict = {}
@@ -118,6 +121,7 @@ def count_tokens(tokens):
 def get_top_terms(terms_dict):
     return {k: v for k, v in sorted(terms_dict.items(), key=lambda item: item[1])}
 
+
 def tokenize_file_sentence(filename):
     with open(filename, 'r') as f:
         text = f.read()
@@ -128,13 +132,14 @@ def tokenize_file_sentence(filename):
 
     return sentences
 
+
 # main code
 if __name__ == '__main__':
     links = crawl(STARTING_LINK, KEYWORD)
-
+    print(links)
     count = 0
     tokens = []  # individual tokens from all visited sites
-    coropora = [] # tokenized sentences
+    coropora = []  # tokenized sentences
 
     for link in links:
         filename = scrape_text(link, count)
@@ -151,6 +156,6 @@ if __name__ == '__main__':
             print(token, '\t', unigram_counts[token])
 
     print("Top terms chosen:")
-    chosen_tokens = ['music', 'jpegmafia', 'album', 'baltimore', 'think', 'song', 'make', 'feel', 'veteran', 'rap']
+    chosen_tokens = ['new', 'york', 'city', 'manhattan', 'park', 'united', 'island', 'center', 'american', 'brooklyn']
     for token in chosen_tokens:
         print(token)
